@@ -1,6 +1,6 @@
 # J O J O Resync
 
-Re-sync any video edit to any song, then finish it with an After Effects-style timeline: SFX layers, keyframed effects, a work area and markers. Drag a song onto your edit and it's matched to your DROP and auto-remixed so its ending lands on your END mark. Exports copy the video untouched, so they're instant and lossless.
+Re-sync any video edit to any song, then finish it with an After Effects-style timeline: SFX layers, keyframed effects, a work area and markers. Drag a song onto your edit and it's matched to your DROP and auto-remixed so its ending lands on your END mark. Exports copy the video untouched, so they're instant and lossless. Download it from #release
 
 ## Run it
 
