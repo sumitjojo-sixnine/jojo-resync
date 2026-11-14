@@ -37,7 +37,6 @@ Projects (with a small MP4 preview and the last two AE mixes) are stored in **Do
 - **Best-fit songs.** Songs tab → *Best fit* ranks your library for the loaded edit by tempo (least stretching), drop, length and key (Camelot - songs in matching keys get a boost).
 - **Loudness.** Pick TikTok / YouTube / Instagram / Spotify / Loud / Broadcast in the header: exports are set to that LUFS with a true-peak limit. The pill shows the current mix loudness.
 - **Templates.** File → *Save setup as template…* keeps your SFX layers and effects; *Templates ▸* puts them on any edit, placed by its DROP / END.
-- **.exe + installer + auto-update.** See `build/HOW TO BUILD.txt`.
 
 ## What's new in 4.3
 
@@ -49,16 +48,6 @@ Projects (with a small MP4 preview and the last two AE mixes) are stored in **Do
 - **Self-contained projects.** Saving copies the song and SFX into the project's Assets folder.
 - **＋ New SFX layer** is now at the top of the timeline.
 - **License keys** (see below).
-
-## Sharing JOJO with license keys
-
-Each person gets their own key that only works on their computer:
-
-1. They open JOJO. The activation screen shows their **Machine ID** (e.g. `LRF6-VYRO-SYLC-SYWR`). They send it to you.
-2. You run **"Make a key.bat"** in your private *JOJO Keygen* folder (or `python keygen.py make --machine LRF6-VYRO-SYLC-SYWR --name "Rahul" [--days 30]`).
-3. Send them the key (`JOJO1.…`). They paste it and press Activate. Done - offline, no server.
-
-`python keygen.py list` shows who you gave keys to. Never share the keygen folder: `jojo_private.key` is what makes keys.
 
 ## What's new in 4.2
 
